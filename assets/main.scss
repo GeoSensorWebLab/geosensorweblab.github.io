@@ -4,9 +4,7 @@
 
 @import "minima";
 
-.site-header {
-  padding: 1em 0;
-}
+// General Styling
 
 .flex {
   display: flex;
@@ -33,6 +31,20 @@
   flex: 0 1 auto !important;
 }
 
+.landing-description {
+  font-size: 1.1em;
+}
+
+.rss-subscribe {
+  font-size: 0.8em;
+}
+
+// Includes Styling
+
+.site-header {
+  padding: 1em 0;
+}
+
 .site-logo {
   flex: 0 1 auto !important;
   padding-right: 1em;
@@ -48,7 +60,7 @@
 }
 
 nav {
-  font-size: 1.5em;
+  font-size: 1.2em;
   justify-content: flex-start;
 
   > * {
@@ -66,8 +78,12 @@ nav {
   padding: 0 1em;
 }
 
+.social-media-list {
+  font-size: 0.8em;
+}
+
 .footer-desc {
   max-width: 300px;
-  @include relative-font-size(0.6);
+  font-size: 0.6em;
   color: $grey-color;
 }
