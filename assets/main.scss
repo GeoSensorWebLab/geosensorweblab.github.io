@@ -13,6 +13,13 @@
   flex-direction: row;
 }
 
+@media all and (max-width: 500px) {
+  .flex {
+    /* On small screens, we are no longer using row direction but column */
+    flex-direction: column;
+  }
+}
+
 .flex-vert {
   flex-direction: column;
 }
@@ -20,7 +27,6 @@
 .flex > * {
   flex: 1 1 auto;
   transition: width 0.7s ease-out;
-  // border: 1px solid #F00;
 }
 
 .flex-image {
@@ -43,6 +49,12 @@
 
 nav {
   font-size: 1.5em;
+  justify-content: flex-start;
+
+  > * {
+    flex: 0 1 auto !important;
+    padding-right: 1em;
+  }
 
   a,
   a:visited {
