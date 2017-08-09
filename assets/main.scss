@@ -6,6 +6,16 @@
 
 // General Styling
 
+h1, h2, h3, h4, h5, h6,
+%vertical-rhythm {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p, blockquote, pre,
+ul, ol, dl, figure {
+  font-family: "Martel", serif;
+}
+
 .flex {
   display: flex;
   flex-direction: row;
@@ -39,6 +49,15 @@
   font-size: 0.8em;
 }
 
+// Post Styling
+
+.post-title {
+  @include relative-font-size(1.8);
+  letter-spacing: normal;
+  line-height: 1;
+  font-weight: 500;
+}
+
 // Includes Styling
 
 .site-header {
@@ -52,6 +71,7 @@
 
 .site-title {
   font-size: 36pt;
+  letter-spacing: normal;
 
   a,
   a:visited {
