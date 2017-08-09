@@ -67,11 +67,17 @@ ul, ol, dl, figure {
 .site-logo {
   flex: 0 1 auto !important;
   padding-right: 1em;
+
+  img {
+    height: 96px;
+    width: 96px;
+  }
 }
 
 .site-title {
   font-size: 36pt;
   letter-spacing: normal;
+  font-weight: 500;
 
   a,
   a:visited {
