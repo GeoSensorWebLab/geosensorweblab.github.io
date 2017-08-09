@@ -50,6 +50,10 @@ nav {
   }
 }
 
+.site-footer div.flex > * {
+  padding: 0 1em;
+}
+
 .footer-desc {
   max-width: 300px;
   @include relative-font-size(0.9375);
