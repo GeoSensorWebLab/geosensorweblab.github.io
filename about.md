@@ -13,9 +13,10 @@ We have worked with other research groups, government agencies, companies, and c
 ### Dr. Steve Liang
 
 Associate Professor at the University of Calgary
+Founder and CEO, SensorUp Inc.
 
-### Dr. Sara Saeedi
-### Dr. Haiyu Lan
-### James Badger
-### Tania Khalafbeigi
-### Kan Luo
+### Dr. Sara Saeedi, Postdoctoral Fellow
+### Dr. Haiyu Lan, Postdoctoral Fellow
+### James Badger, Research Associate
+### Tania Khalafbeigi, Ph.D. Candidate
+### Kan Luo, Ph.D. Student
