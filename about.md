@@ -15,7 +15,7 @@ We have worked with other research groups, government agencies, companies, and c
 Associate Professor at the University of Calgary
 
 ### Dr. Sara Saeedi
-
+### Dr. Haiyu Lan
 ### James Badger
-
+### Tania Khalafbeigi
 ### Kan Luo
