@@ -12,8 +12,8 @@ We have worked with other research groups, government agencies, companies, and c
 
 ### Dr. Steve Liang
 
-Associate Professor at the University of Calgary
-Founder and CEO, SensorUp Inc.
+- Associate Professor at the University of Calgary
+- Founder and CEO, [SensorUp Inc.](http://www.sensorup.com)
 
 ### Dr. Sara Saeedi, Postdoctoral Fellow
 ### Dr. Haiyu Lan, Postdoctoral Fellow
