@@ -16,6 +16,8 @@ Our research sponsors include Microsoft Research, CAE, CANARIE, NSERC, Alberta I
 
 - Associate Professor at the University of Calgary
 - Founder and CEO, [SensorUp Inc.](http://www.sensorup.com)
+- Chair of WG2, [ITU-T FG on Data Processing and Management for IoT and Smart Communities](https://www.itu.int/en/ITU-T/focusgroups/dpm/Pages/default.aspx)
+- Chair of [OGC SensorThings API Standard Working Group](http://www.opengeospatial.org/projects/groups/sweiotswg)
 
 ### Dr. Sara Saeedi, Postdoctoral Fellow
 ### Dr. Haiyu Lan, Postdoctoral Fellow
