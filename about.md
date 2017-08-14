@@ -14,7 +14,7 @@ Our research sponsors include Microsoft Research, CAE, CANARIE, NSERC, Alberta I
 
 ### Dr. Steve Liang
 
-- Associate Professor at the University of Calgary
+- Associate Professor at the [Geomatics Engineering Department](https://schulich.ucalgary.ca/departments/geomatics-engineering), [Schulich School of Engineering](https://schulich.ucalgary.ca/), [University of Calgary](http://ucalgary.ca)
 - Founder and CEO, [SensorUp Inc.](http://www.sensorup.com)
 - Chair of WG2, [ITU-T FG on Data Processing and Management for IoT and Smart Communities](https://www.itu.int/en/ITU-T/focusgroups/dpm/Pages/default.aspx)
 - Chair of [OGC SensorThings API Standard Working Group](http://www.opengeospatial.org/projects/groups/sweiotswg)
