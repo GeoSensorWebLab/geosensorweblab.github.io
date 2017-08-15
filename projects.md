@@ -76,3 +76,6 @@ permalink: /projects/
 
 The CANARIE RPI was a project to expand previous NEP work with an open API for integration with future NEP projects as well as public access. The GeoSensorWeb Lab built an open HTTP database for accessing sensor metadata and sensor data, as well as a web front-end for visualizing the data.
 
+## <a href="http://geocens.gswlab.ca/">GeoCENS Project</a> (2009 – 2013)
+
+The Geospatial Cyberinfrastructure for Environmental Sensing (GeoCENS) project was a CANARIE RPI project created by the GeoSensorWeb Lab to catalog and view public OGC SOS data sources across the internet. It included a user discussion and data rating feature, to improve the rating of results. Data could be viewed online using the NASA WorldWind Java Applet. A translation engine layer was created to map SOS commands into an HTTP interface for easier consumption by web and javascript clients. A search engine crawler and database would search and catalog public SOS instances online, and provide that data to the portal with an HTTP interface.
