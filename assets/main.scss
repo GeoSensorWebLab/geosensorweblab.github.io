@@ -70,6 +70,14 @@ figcaption {
   font-weight: 500;
 }
 
+.post-content .flex {
+  padding-bottom: 1em;
+}
+
+.post-content .flex > * {
+  padding: 0 0.5em;
+}
+
 // Includes Styling
 
 .site-header {
