@@ -71,3 +71,8 @@ permalink: /projects/
 </div>
 <img src="/assets/images/aafc.jpg" srcset="/assets/images/aafc@2x.jpg 2x">
 </div>
+
+## <a href="https://www.canarie.ca/canarie-announces-next-phase-of-software-development-program-supporting-cutting-edge-canadian-research/">CANARIE RPI</a> (2013 – 2014)
+
+The CANARIE RPI was a project to expand previous NEP work with an open API for integration with future NEP projects as well as public access. The GeoSensorWeb Lab built an open HTTP database for accessing sensor metadata and sensor data, as well as a web front-end for visualizing the data.
+
