@@ -11,6 +11,9 @@ We have worked with other research groups, government agencies, companies, and c
 
 For more information on our research, please see our list of publications. We also have a list of public projects, where you can interact with data live online. If you want to know more about the research lab and its members, please see the about page.
 
-<a href="http://www.openstreetmap.org/node/3044668378#map=19/51.08047/-114.13344">
-    <img src="/assets/images/20170808-lablocation.jpg" srcset="/assets/images/20170808-lablocation@2x.jpg 2x">
-</a>
+<figure>
+    <a href="http://www.openstreetmap.org/node/3044668378#map=19/51.08047/-114.13344">
+        <img src="/assets/images/20170808-lablocation.jpg" srcset="/assets/images/20170808-lablocation@2x.jpg 2x">
+    </a>
+    <figcaption>GeoSensorWeb Lab at the University of Calgary</figcaption>
+</figure>

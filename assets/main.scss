@@ -4,8 +4,16 @@
 
 @import "minima";
 
-.site-header {
-  padding: 1em 0;
+// General Styling
+
+h1, h2, h3, h4, h5, h6,
+%vertical-rhythm {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+p, blockquote, pre,
+ul, ol, dl, figure {
+  font-family: "Martel", serif;
 }
 
 .flex {
@@ -33,13 +41,51 @@
   flex: 0 1 auto !important;
 }
 
+.landing-description {
+  font-size: 1.1em;
+}
+
+.rss-subscribe {
+  font-size: 0.8em;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+// Post Styling
+
+.post-title {
+  @include relative-font-size(1.8);
+  letter-spacing: normal;
+  line-height: 1;
+  font-weight: 500;
+}
+
+// Includes Styling
+
+.site-header {
+  padding: 1em 0;
+}
+
 .site-logo {
   flex: 0 1 auto !important;
   padding-right: 1em;
+
+  img {
+    height: 96px;
+    width: 96px;
+  }
 }
 
 .site-title {
   font-size: 36pt;
+  letter-spacing: normal;
+  font-weight: 500;
 
   a,
   a:visited {
@@ -48,7 +94,7 @@
 }
 
 nav {
-  font-size: 1.5em;
+  font-size: 1.2em;
   justify-content: flex-start;
 
   > * {
@@ -66,8 +112,12 @@ nav {
   padding: 0 1em;
 }
 
+.social-media-list {
+  font-size: 0.8em;
+}
+
 .footer-desc {
   max-width: 300px;
-  @include relative-font-size(0.9375);
+  font-size: 0.6em;
   color: $grey-color;
 }
