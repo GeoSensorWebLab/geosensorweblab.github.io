@@ -4,6 +4,16 @@ title: Projects
 permalink: /projects/
 ---
 
+## <a href="http://www.bera-project.org"> OGC CDB: Advancing Interoperability for Dynamic Environmental Representations</a> (2015 – Present)
+
+<div class="flex">
+<div>
+    <p>
+        The OGC CDB Project is a collaboration project with CAE Inc. to advance interoperability for dynamic environmental representations. They key challenge is the ability to perform real-time distributed simulation. This project benefit Canada because modeling, simulation and training plays a critical role to enhance safety, improve efficiency, maintain readiness, and solve challenging problems in almost every facet of our lives
+    </p>
+</div>
+</div>
+
 ## <a href="http://www.bera-project.org">Boreal Ecosystem Recovery and Assessment (BERA) Project</a> (2015 – Present)
 
 <div class="flex">
