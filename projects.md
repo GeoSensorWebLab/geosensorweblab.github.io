@@ -4,12 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-## <a href="http://www.bera-project.org"> OGC CDB: Advancing Interoperability for Dynamic Environmental Representations</a> (2015 – Present)
+## OGC CDB: Advancing Interoperability for Dynamic Environmental Representations (2016 – Present)
 
 <div class="flex">
 <div>
     <p>
-        The OGC CDB Project is a collaboration project with CAE Inc. to advance interoperability for dynamic environmental representations. They key challenge is the ability to perform real-time distributed simulation. This project benefit Canada because modeling, simulation and training plays a critical role to enhance safety, improve efficiency, maintain readiness, and solve challenging problems in almost every facet of our lives
+        The OGC CDB Project is a collaboration project with CAE Inc. to advance interoperability for dynamic environmental representations. Effective training and simulation requires producing a unified synthetic representation of the world. Each simulation generates a synthetic environment using various types of geospatial information and processes with redundancies and data inconsistencies. Applications of such dynamic Modeling and Simulation (M&S) include aviation, emergency response, defense and military, etc. To enhance realism and efficiency in dynamic M&S applications, one of the most pressing needs is a “plug-and-play” synthetic environment database that can be shared, reused, and repurposed. However the current situation is that M&S simulators require their own proprietary synthetic environment databases. The objective of this project is to develop an interoperable and high performance open geospatial standard specification for dynamic synthetic environmental representations.
     </p>
 </div>
 </div>
