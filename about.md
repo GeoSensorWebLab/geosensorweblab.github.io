@@ -24,3 +24,5 @@ Our research sponsors include Microsoft Research, CAE, CANARIE, NSERC, Alberta I
 ### James Badger, Research Associate
 ### Tania Khalafbeigi, Ph.D. Candidate
 ### Kan Luo, Ph.D. Student
+### Soroush Ojagh, Visiting Ph.D. Student
+### Sumaya Nsair, co-supervised M.Sc. Student
