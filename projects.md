@@ -61,16 +61,7 @@ permalink: /projects/
     </div>
 </div>
 
-## <a href="http://aafc.gswlab.ca">AAFC RISMA Portal (2012 – 2014)
 
-<div class="flex">
-<div>
-    <p>
-        The Agriculture Agri-Foods Canada (AAFC) RISMA Portal was a project to connect ground sensors to the internet and distribute the data using OGC Sensor Observation Service (SOS). The ground sensors were maintained by AAFC in Saskatchewan, Manitoba, and Ontario. The GeoSensorWeb Lab helped build the SOS backend system as well as a web front-end for visualizing the data on maps and charts.
-    </p>
-</div>
-<img src="/assets/images/aafc.jpg" srcset="/assets/images/aafc@2x.jpg 2x">
-</div>
 
 ## <a href="https://www.canarie.ca/canarie-announces-next-phase-of-software-development-program-supporting-cutting-edge-canadian-research/">CANARIE RPI</a> (2013 – 2014)
 
