@@ -17,6 +17,7 @@ Posts are written in Markdown, and can have HTML embedded inside.
 ## Adding Images and other Static Files
 
 Add the files to the `assets` directory. When the site is built into pages, the files will be accessible at the HTTP path `/assets`.
+Any file placed in static/ should be referenced using the absolute URL /static/[filename]. If you change assetSubDirectory to assets, then these URLs will need to be changed to /assets/[filename].
 
 ## Jekyll Plugins
 
