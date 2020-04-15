@@ -20,9 +20,15 @@ Our research sponsors include Microsoft Research, CAE, CANARIE, NSERC, Alberta I
 - Chair of [OGC SensorThings API Standard Working Group](http://www.opengeospatial.org/projects/groups/sweiotswg)
 
 ### Dr. Sara Saeedi, Postdoctoral Fellow
-### Dr. Haiyu Lan, Postdoctoral Fellow
+
+### Soroush Ojagh, Ph.D. Student
+
+### Mahnoush M. Jahromi, Ph.D. Student
+
+### Sepehr Honarparvar, Visiting Ph.D. Student
+
+### Sina Kiaei, Ph.D. Student
+
 ### James Badger, Research Associate
-### Tania Khalafbeigi, Ph.D. Candidate
-### Kan Luo, Ph.D. Student
-### Soroush Ojagh, Visiting Ph.D. Student
-### Sumaya Nsair, co-supervised M.Sc. Student
+
+### Jeremy Squires, Research Associate
