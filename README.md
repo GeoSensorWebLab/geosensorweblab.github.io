@@ -26,7 +26,15 @@ Add the files to the `assets` directory. When the site is built into pages, the 
 
 If you want to test new posts/pages before publishing to GitHub, you can clone the repository to your computer and build a preview there. You will need Ruby (included with MacOS).
 
+### Installation
+
 [Jekyll Docs: GitHub Pages Installation](https://jekyllrb.com/docs/github-pages/)
+
+### Running
+
+* `bundle exec jekyll serve`
+* Open the [Local Jekyll Server](http://localhost:4000) page
+* See: [GitHub Pages Local Testing](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)
 
 ## License
 
