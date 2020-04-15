@@ -11,6 +11,4 @@ Associate Professor, Geomatics Engineering
 <a href="mailto:steve.liang@ucalgary.ca">steve.liang@ucalgary.ca</a>  
 +1.403.220.4703
 
-<img src="/assets/images/steve-liang-photo.jpg" width="400">
-
 For comments about the GeoSensorWeb Lab site, [contact us on GitHub](https://github.com/GeoSensorWebLab/geosensorweblab.github.io).
