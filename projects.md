@@ -25,7 +25,7 @@ permalink: /projects/
 <img src="/assets/images/bera-2017-map.jpg" srcset="/assets/images/bera-2017-map@2x.jpg 2x">
 </div>
 
-## <a href="http://arcticconnect.org">ArcticConnect</a> (2014 – 2016)
+## <a href="http://arcticconnect.org">ArcticConnect</a> (2014 – Present)
 
 <p>
     ArcticConnect is a CANARIE Network-Enabled Platform (NEP) project with the Arctic Institute of North America and Cybera, Inc. It is a set of tools and applications for improving geospatial visualization of data and research related to the arctic. The GeoSensorWeb Lab assisted in building multiple parts of the project.
