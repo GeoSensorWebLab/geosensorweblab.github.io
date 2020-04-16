@@ -2,7 +2,7 @@
 layout: post
 title:  "Meet the GeoSensorWeb Lab"
 date:   2017-08-08 16:07:57 -0600
-categories: geosensorweblab
+category: geosensorweblab
 ---
 
 The GeoSensorWeb Lab is a research group at the University of Calgary, Canada that is focused on developing web-enabled geospatial information systems and building interoperability into the Internet of Things.
