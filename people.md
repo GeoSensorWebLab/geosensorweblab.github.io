@@ -31,7 +31,7 @@ permalink: /people/
 
 ### Jeremy Squires, Research Associate
 
-{% include icon-linkedin.html username="jeremy-squires-2699901" displayname="LinkedIn" %}
+- {% include icon-linkedin.html username="jeremy-squires-2699901" displayname="LinkedIn" %}
 
 ## Previous Members
 
