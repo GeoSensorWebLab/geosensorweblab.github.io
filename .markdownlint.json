@@ -3,7 +3,7 @@
   "first-line-heading": false,
   "no-inline-html": {
     "allowed_elements": [
-      "a", "img", "p", "figure", "figcaption"
+      "a", "img", "p", "figure", "figcaption", "div"
     ]
   }
 }

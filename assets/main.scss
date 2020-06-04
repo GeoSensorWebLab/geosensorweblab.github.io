@@ -88,7 +88,7 @@ figcaption {
   flex: 0 1 auto !important;
   padding-right: 1em;
 
-  img {
+  img, svg {
     height: 96px;
     width: 96px;
   }
@@ -132,4 +132,14 @@ nav {
   max-width: 300px;
   font-size: 0.6em;
   color: $grey-color;
+}
+
+.social-logo {
+  flex: 0 1 auto !important;
+  padding-right: 5px;
+
+  img, svg {
+    height: 15px;
+    width: 15px;
+  }
 }
