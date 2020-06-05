@@ -33,7 +33,7 @@ permalink: /people/
 
 {% include image-avatar.html username="Jeremy-Squires" displayname="Jeremy Squires" %}
 
-- {% include icon-linkedin.html username="jeremy-squires-2699901" displayname="LinkedIn" %}
+{% include icon-linkedin.html username="jeremy-squires-2699901" displayname="LinkedIn" %}
 
 ## Previous Members
 
