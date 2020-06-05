@@ -143,3 +143,13 @@ nav {
     width: 15px;
   }
 }
+
+.avatar-image {
+  flex: 0 1 auto !important;
+  padding-right: 5px;
+
+  img, svg {
+    height: 150px;
+    width: 150px;
+  }
+}
