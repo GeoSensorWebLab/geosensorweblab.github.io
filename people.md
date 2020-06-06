@@ -27,13 +27,25 @@ permalink: /people/
 
 ### Sina Kiaei, Ph.D. Student
 
-### James Badger, Research Associate
+{% include people-profile.html
+  imagename="James-Badger.jpg"
+  displayname="James Badger"
+  linkedinid="james-badger-b925b145"
+  position="Research Associate"
+  duration="2016-Present"
+  location="University of Calgary"
+  biotext="<p>New technologies have allowed us to conduct research at larger and larger scales, but our ability to manage such scales becomes more complex and difficult. By re-using some of the lessons learned by major technology companies like Facebook, Yahoo!, Etsy, and Bloomberg, we can take configuration management from cloud tech and apply it to sensor device tech. By managing our devices with a centralized tool, we can set up devices with less work.</p><p>Other web tech can be used to simulate and test geo-sensor networks, allowing us to design and build more robust networks that can respond to changing network and environmental conditions.</p>"
+%}
 
-### Jeremy Squires, Research Associate
-
-{% include image-avatar.html username="Jeremy-Squires" displayname="Jeremy Squires" %}
-
-{% include icon-linkedin.html username="jeremy-squires-2699901" displayname="LinkedIn" %}
+{% include people-profile.html
+  imagename="Jeremy-Squires.jpg"
+  displayname="Jeremy Squires"
+  linkedinid="jeremy-squires-2699901"
+  position="Research Associate"
+  duration="2020-Present"
+  location="University of Calgary"
+  biotext=""  
+%}
 
 ## Previous Members
 

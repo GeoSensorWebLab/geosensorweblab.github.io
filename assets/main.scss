@@ -25,6 +25,33 @@ ul, ol, dl, figure {
   flex-direction: row;
 }
 
+.profile {
+  padding: 2px;
+  display: flex;
+  flex-flow: row wrap;
+
+  .avatar {
+    flex: 1 25%;
+
+    .displayname {
+      color: #7aa93c;
+      font-size: 130%;
+    }
+  }
+
+  .bio {
+    flex: 1 75%;
+  }
+}
+
+.hline {
+  widows: 100%;
+  height:1px;
+  background: #ccc;
+  margin: 1em auto;
+  padding: 3;
+}
+
 @media all and (max-width: 500px) {
   .flex {
     /* On small screens, we are no longer using row direction but column */
