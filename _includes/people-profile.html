@@ -1,0 +1,32 @@
+<div class="profile">
+  <div class="avatar">
+  </div>
+  <div class="bio">
+    <div class="hline"></div>
+  </div>
+  <div class="avatar">
+    <div>
+      {% include image-avatar.html imagename=include.imagename displayname=include.displayname %}  
+    </div>
+    <div class="displayname">
+      {{ include.displayname }}
+    </div>
+    <div>
+      {{ include.position }}
+    </div>
+    <div>
+      {{ include.duration }}
+    </div>
+    <div>
+      {{ include.location }}
+    </div>
+    <div>
+      {% if include.linkedinid %}
+        {% include icon-linkedin.html username=include.linkedinid displayname=include.linkedinid %}
+      {% endif %}
+    </div>
+  </div>
+  <div class="bio">
+    {{ include.biotext }}
+  </div>
+</div>
