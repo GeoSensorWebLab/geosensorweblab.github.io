@@ -5,13 +5,13 @@
       <ul class="social-media-list">
         {% if site.github_username %}
         <li class="flex">
-          {% include icon-github.html username=site.github_username %}
+          {% include icon-github.html username=site.github_username displayname=site.github_username %}
         </li>
         {% endif %}
 
         {% if site.twitter.username %}
         <li>
-          {% include icon-twitter.html username=site.twitter.username %}
+          {% include icon-twitter.html username=site.twitter.username displayname=site.twitter.username %}
         </li>
         {% endif %}
       </ul>

@@ -20,9 +20,15 @@
     <div>
       {{ include.location }}
     </div>
-    <div>
-      {% if include.linkedinid %}
-        {% include icon-linkedin.html username=include.linkedinid displayname=include.linkedinid %}
+    <div class="flex bio-social">
+      {% if include.linkedinid and include.linkedinid != "" %}
+        {% include icon-linkedin.html username=include.linkedinid %}
+      {% endif %}
+      {% if include.githubid and include.githubid != "" %}
+        {% include icon-github.html username=include.githubid %}
+      {% endif %}
+      {% if include.twitterid and include.twitterid != "" %}
+        {% include icon-twitter.html username=include.twitterid %}
       {% endif %}
     </div>
   </div>

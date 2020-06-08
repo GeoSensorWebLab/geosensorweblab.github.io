@@ -161,6 +161,15 @@ nav {
   color: $grey-color;
 }
 
+.bio-social {
+  padding-top: 5px;
+
+  > a {
+    justify-content: flex-start;
+    flex: unset;
+  }
+}
+
 .social-logo {
   flex: 0 1 auto !important;
   padding-right: 5px;

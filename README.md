@@ -36,10 +36,12 @@ If you want to test new posts/pages before publishing to GitHub, you can clone t
 * Open the [Local Jekyll Server](http://localhost:4000) page
 * See: [GitHub Pages Local Testing](https://help.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)
 
-## Icons
+## Images and Icons
 
 * [Simple Icons](https://simpleicons.org/)
   * [NPM CDN Usage](https://www.npmjs.com/package/simple-icons)
+* [PNGWave](https://www.pngwave.com/png-clip-art-gfczp)
+  * `user-profile-avatar.png` - no attribution necessary
 
 ## License
 

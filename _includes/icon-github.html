@@ -1,4 +1,6 @@
 <a href="https://github.com/{{ include.username }}" class="flex">
-  <span class="icon icon--github flex-image">{% include icon-github.svg %}</span>
-  <span class="username">{{ include.username }}</span>
+  <span class="icon social-logo flex-image">{% include icon-github.svg %}</span>
+  {% if include.displayname %}
+  <span class="username">{{ include.displayname }}</span>
+  {% endif %}
 </a>

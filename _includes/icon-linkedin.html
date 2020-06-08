@@ -1,4 +1,6 @@
-<a class="flex" href="https://linkedin.com/in/{{ include.username }}">
-  <span class="icon social-logo">{% include simpleicons.org/linkedin.svg %}</span>
+<a href="https://linkedin.com/in/{{ include.username }}" class="flex">
+  <span class="icon social-logo flex-image">{% include simpleicons.org/linkedin.svg %}</span>
+  {% if include.displayname %}
   <span class="username">{{ include.displayname }}</span>
+  {% endif %}
 </a>
