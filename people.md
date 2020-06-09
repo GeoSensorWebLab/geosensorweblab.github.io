@@ -131,58 +131,58 @@ permalink: /people/
 
 ## Previous Members and Students
 
+**Post Doctoral Fellows**
+
+- [Dr. Haiyu Lan](https://scholar.google.ca/citations?user=ykLug-oAAAAJ&hl=en) (In Progress) , University of Calgary.
+Project Title: UAV and IoT.
+
+- [Dr. Sara Saeedi](https://scholar.google.ca/citations?user=uVdDM94AAAAJ&hl=en) (2015-2018) , University of Calgary.
+Project Title: Interoperable OGC CDB standards.
+Present Position: Assistant Director, GSW Lab.
+
+- [Dr. Mohamed Bakillah](https://scholar.google.ca/citations?user=25pvDTYAAAAJ&hl=th), University of Calgary.
+Project Title: Semantic issues for the Internet of Things.
+Present Position: Director, UAE GIS Centre.
+
+- [Dr. Yong Bian](https://www.linkedin.com/in/yong-bian-465a0791/), University of Calgary.
+Project Title: Watermarking techniques for the Internet of Things.
+Present Position: Senior Research Fellow at Harvard University.
+
 **PhD Students**
 
-- [Dr. Tania Khalafbeigi](https://www.linkedin.com/in/tania-khalafbeigi-0a49116a/?originalSubdomain=ca)(graduated in 2019) , University of Calgary
-Thesis: Internet of Things Data Streaming Architecture
+- [Dr. Tania Khalafbeigi](https://www.linkedin.com/in/tania-khalafbeigi-0a49116a/?originalSubdomain=ca) (graduated in 2019) , University of Calgary.
+Thesis Title: Internet of Things Data Streaming Architecture.
 Present Position: Software Developer, SensorUp Inc.
 
-- Chih-Yuan Huang (graduated in 2014) , University of Calgary
-Thesis/Project Title: GeoPubSubHub: A Geospatial Publish/Subscribe Architecture for the World-Wide Sensor Web
-Present Position: Assistant Professor, NCU
+- [Dr. Chih-Yuan Huang](https://scholar.google.de/citations?user=1fHqpF0AAAAJ&hl=en) (graduated in 2014) , University of Calgary.
+Thesis Title: GeoPubSubHub: A Geospatial Publish/Subscribe Architecture for the World-Wide Sensor Web.
+Present Position: Assistant Professor, NCU.
 
 **Master Students**
 
-- Xiaohong Shang (graduated in 2016) , University of Calgary
-Thesis: A Study on Efficient Vector Mapping with Vector Tiles Based on Cloud Server Architecture
+- Xiaohong Shang (graduated in 2016) , University of Calgary.
+Thesis Title: A Study on Efficient Vector Mapping with Vector Tiles Based on Cloud Server Architecture.
 
-- Tsai Hang-Fang (graduated in 2015) , University of Calgary
-Thesis: An Efficient Web Mapping Solution for Polar Regions
+- Tsai Hang-Fang (graduated in 2015) , University of Calgary.
+Thesis Title: An Efficient Web Mapping Solution for Polar Regions.
 
-- Mohammad Ali Jazayeri (graduated in 2014) , University of Calgary
-Thesis: Implementation and Evaluation of Interoperable OpenStandards for the Internet of Things
+- Mohammad Ali Jazayeri (graduated in 2014) , University of Calgary.
+Thesis Title: Implementation and Evaluation of Interoperable OpenStandards for the Internet of Things.
 
-- Ren-Yu Li, University of Calgary
-Thesi: A Study of Volunteered Geographic Information and Social Media
+- Ren-Yu Li, University of Calgary.
+Thesis Title: A Study of Volunteered Geographic Information and Social Media.
 
-- Andrew Phillips (co-supervised, graduated in 2014) , University of Calgary
-Thesis: Integrated Sensing of Soil Moisture at the Field-Scale: Measuring, Modeling and Sharing For Improved Agricultural Decision Support
+- Andrew Phillips (co-supervised, graduated in 2014) , University of Calgary.
+Thesis Title: Integrated Sensing of Soil Moisture at the Field-Scale: Measuring, Modeling and Sharing For Improved Agricultural Decision Support.
 
-- Mohammad Alohali (graduated in 2015) , University of Calgary
-Project Title: Internet of Things (non-thesis-based)
-
-**Post Doctoral Fellows**
-
-- Haiyu Lan (In Progress) , University of Calgary
-Thesis/Project Title: UAV and IoT
-
-- Sara Saeedi (2015-2018) , University of Calgary
-Project Title: Interoperable OGC CDB standards
-Present Position: Assistant Director, GSW lab
-
-- Mohamed Bakillah, University of Calgary
-Project Title: Semantic issues for the Internet of Things
-Present Position: Director, UAE GIS Centre
-
-- Yong Bian, University of Calgary
-Project Title: Watermarking techniques for the Internet of Things
-Present Position: Postdoc, Yale University
+- Mohammad Alohali (graduated in 2015) , University of Calgary.
+Project Title: Internet of Things (non-thesis-based master degree).
 
 **Research Associates**
 
-- James Badger (2009-2017), University of Calgary
+- James Badger (2009-2017), University of Calgary.
 Project Title: GeoCENS Data Management System
 
-- David Chang, University of Calgary
-Project Title: Cyberinfrastructure for Geospatial Information Systems
+- David Chang, University of Calgary.
+Project Title: Cyber-infrastructure for Geospatial Information Systems.
 Present Position: Software Developer, SensorUp Inc.
