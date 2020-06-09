@@ -23,6 +23,7 @@ permalink: /people/
 
 - Associate Professor at the [Geomatics Engineering Department](https://schulich.ucalgary.ca/departments/geomatics-engineering), [Schulich School of Engineering](https://schulich.ucalgary.ca/), [University of Calgary](http://ucalgary.ca)
 - Founder and CTO, [SensorUp Inc.](http://www.sensorup.com)
+- Rogers IoT Research Chair, Research Chair
 - Chair of WG2, [ITU-T FG on Data Processing and Management for IoT and Smart Communities](https://www.itu.int/en/ITU-T/focusgroups/dpm/Pages/default.aspx)
 - Chair of [OGC SensorThings API Standard Working Group](http://www.opengeospatial.org/projects/groups/sweiotswg)
 - [Publications (Google Scholar)](https://scholar.google.ca/citations?hl=en&user=mAkyE1sAAAAJ&view_op=list_works&authuser=1&sortby=pubdate)
@@ -33,10 +34,10 @@ permalink: /people/
   linkedinid="sara-saeedi-35b1583a"
   githubid=""
   twitterid=""
-  position="Postdoctoral Fellow"
-  duration="2016-Present"
+  position="Assistant Director"
+  duration="2015-Present"
   location="University of Calgary"
-  biotext="I am a Postdoctoral fellow in the GeoSensor Web lab, at the University of Calgary. I received my Ph.D. in 2013, from Multi Mobile Sensor System research team, Geomatics Engineering, at the University of Calgary. My interests are primarily in the field of sensor fusion and data mining in location-based services. Sensor technologies are used almost everywhere, and connecting them over a network is recently growing very fast. However, there is still a gap between the multi-sensor networks and quality/usability of their data in real-time applications. Multi-sensor integration leverages the individual sensor data to get a more accurate and reliable view of the raw data. Sensor data, along with the IoT’s access to the cloud-based processing resources, will lead to a tremendous expansion in the on-line delivery of context-aware services customized for any given situation. Services could be triggered or customized based on the context of what an individual user needs, what machines are doing, what the infrastructure is doing, what nature is doing, or all of the above in various combinations. This research creates a unique opportunity to integrate the multi-sensor data to improve the efficiency and quality of the Geosensor network services. "  
+  biotext="I have been a Postdoctoral fellow in the GeoSensorWeb Lab at the University of Calgary since 2015. I have been a Member of the [OGC (Open Geospatial Consortium) Architecture Board](https://www.ogc.org/projects/groups/oab) since 2020. I received my Ph.D. in 2013, from the [Multi Mobile Sensor System Research Team](https://mms.geomatics.ucalgary.ca/), the University of Calgary in positioning, navigation and wireless location on smartphones. I have my B.Sc. and M.Sc. in Geomatics and Civil Engineering from the University of Tehran, Iran. My interests are primarily in the field of "sensor fusion" and "intelligent geospatial computation" in context-aware location-based services. Sensor technologies are used almost everywhere. Connecting multi-sensor over a network increases the quality, coverage, confidence and usability of their data in real-time applications. Multi-sensor data, along with the IoT’s access to cloud-based processing resources, will lead to a tremendous expansion in the online accessibility of geospatial services anytime and everywhere."  
 %}
 
 ### Publications
@@ -128,8 +129,60 @@ permalink: /people/
   biotext="<p>Software developer, architect, and integrator with project management, consulting, and technical management experience. Manages software development at the GeoSensorWeb Lab. Specializing in web applications, APIs, sensor data processing and geomatics visualization tools in the cloud (SensorUp Explorer on AWS). Does DevOps to AWS using Terraform and utilities in Node and Bash.</p>"
 %}
 
-## Previous Members
+## Previous Members and Students
 
-- Dr. Haiyu Lan
-- Dr. Tania Khalafbeigi
-- Sumaya Nsair
+**PhD Students**
+
+- [Dr. Tania Khalafbeigi](https://www.linkedin.com/in/tania-khalafbeigi-0a49116a/?originalSubdomain=ca)(graduated in 2019) , University of Calgary
+Thesis: Internet of Things Data Streaming Architecture
+Present Position: Software Developer, SensorUp Inc.
+
+- Chih-Yuan Huang (graduated in 2014) , University of Calgary
+Thesis/Project Title: GeoPubSubHub: A Geospatial Publish/Subscribe Architecture for the World-Wide Sensor Web
+Present Position: Assistant Professor, NCU
+
+**Master Students**
+
+- Xiaohong Shang (graduated in 2016) , University of Calgary
+Thesis: A Study on Efficient Vector Mapping with Vector Tiles Based on Cloud Server Architecture
+
+- Tsai Hang-Fang (graduated in 2015) , University of Calgary
+Thesis: An Efficient Web Mapping Solution for Polar Regions
+
+- Mohammad Ali Jazayeri (graduated in 2014) , University of Calgary
+Thesis: Implementation and Evaluation of Interoperable OpenStandards for the Internet of Things
+
+- Ren-Yu Li, University of Calgary
+Thesi: A Study of Volunteered Geographic Information and Social Media
+
+- Andrew Phillips (co-supervised, graduated in 2014) , University of Calgary
+Thesis: Integrated Sensing of Soil Moisture at the Field-Scale: Measuring, Modeling and Sharing For Improved Agricultural Decision Support
+
+- Mohammad Alohali (graduated in 2015) , University of Calgary
+Project Title: Internet of Things (non-thesis-based)
+
+**Post Doctoral Fellows**
+
+- Haiyu Lan (In Progress) , University of Calgary
+Thesis/Project Title: UAV and IoT
+
+- Sara Saeedi (2015-2018) , University of Calgary
+Project Title: Interoperable OGC CDB standards
+Present Position: Assistant Director, GSW lab
+
+- Mohamed Bakillah, University of Calgary
+Project Title: Semantic issues for the Internet of Things
+Present Position: Director, UAE GIS Centre
+
+- Yong Bian, University of Calgary
+Project Title: Watermarking techniques for the Internet of Things
+Present Position: Postdoc, Yale University
+
+**Research Associates**
+
+- James Badger (2009-2017), University of Calgary
+Project Title: GeoCENS Data Management System
+
+- David Chang, University of Calgary
+Project Title: Cyberinfrastructure for Geospatial Information Systems
+Present Position: Software Developer, SensorUp Inc.
