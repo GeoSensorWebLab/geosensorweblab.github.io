@@ -37,7 +37,7 @@ permalink: /people/
   position="Assistant Director"
   duration="2015-Present"
   location="University of Calgary"
-  biotext="I have been a Postdoctoral fellow in the GeoSensorWeb Lab at the University of Calgary since 2015. I have been a Member of the [OGC (Open Geospatial Consortium) Architecture Board](https://www.ogc.org/projects/groups/oab) since 2020. I received my Ph.D. in 2013, from the [Multi Mobile Sensor System Research Team](https://mms.geomatics.ucalgary.ca/), the University of Calgary in positioning, navigation and wireless location on smartphones. I have my B.Sc. and M.Sc. in Geomatics and Civil Engineering from the University of Tehran, Iran. My interests are primarily in the field of "sensor fusion" and "intelligent geospatial computation" in context-aware location-based services. Sensor technologies are used almost everywhere. Connecting multi-sensor over a network increases the quality, coverage, confidence and usability of their data in real-time applications. Multi-sensor data, along with the IoT’s access to cloud-based processing resources, will lead to a tremendous expansion in the online accessibility of geospatial services anytime and everywhere."  
+  biotext="I have been a Postdoctoral fellow in the GeoSensorWeb Lab at the University of Calgary since 2015. I have been a Member of the <a href='https://www.ogc.org/projects/groups/oab'>OGC (Open Geospatial Consortium) Architecture Board</a> since 2020. I received my Ph.D. in 2013, from the <a href='https://mms.geomatics.ucalgary.ca/'>Multi Mobile Sensor System Research Team</a>, the University of Calgary in positioning, navigation and wireless location on smartphones. I have my B.Sc. and M.Sc. in Geomatics and Civil Engineering from the University of Tehran, Iran. My interests are primarily in the field of 'sensor fusion' and 'intelligent geospatial computation' in context-aware location-based services. Sensor technologies are used almost everywhere. Connecting multi-sensor over a network increases the quality, coverage, confidence and usability of their data in real-time applications. Multi-sensor data, along with the IoT’s access to cloud-based processing resources, will lead to a tremendous expansion in the online accessibility of geospatial services anytime and everywhere."  
 %}
 
 ### Publications
@@ -131,7 +131,7 @@ permalink: /people/
 
 ## Previous Members and Students
 
-**Post Doctoral Fellows**
+### Post Doctoral Fellows
 
 - [Dr. Haiyu Lan](https://scholar.google.ca/citations?user=ykLug-oAAAAJ&hl=en) (In Progress) , University of Calgary.
 Project Title: UAV and IoT.
@@ -148,7 +148,7 @@ Present Position: Director, UAE GIS Centre.
 Project Title: Watermarking techniques for the Internet of Things.
 Present Position: Senior Research Fellow at Harvard University.
 
-**PhD Students**
+### PhD Students
 
 - [Dr. Tania Khalafbeigi](https://www.linkedin.com/in/tania-khalafbeigi-0a49116a/?originalSubdomain=ca) (graduated in 2019) , University of Calgary.
 Thesis Title: Internet of Things Data Streaming Architecture.
@@ -158,7 +158,7 @@ Present Position: Software Developer, SensorUp Inc.
 Thesis Title: GeoPubSubHub: A Geospatial Publish/Subscribe Architecture for the World-Wide Sensor Web.
 Present Position: Assistant Professor, NCU.
 
-**Master Students**
+### Master Students
 
 - Xiaohong Shang (graduated in 2016) , University of Calgary.
 Thesis Title: A Study on Efficient Vector Mapping with Vector Tiles Based on Cloud Server Architecture.
@@ -178,7 +178,7 @@ Thesis Title: Integrated Sensing of Soil Moisture at the Field-Scale: Measuring,
 - Mohammad Alohali (graduated in 2015) , University of Calgary.
 Project Title: Internet of Things (non-thesis-based master degree).
 
-**Research Associates**
+### Research Associates
 
 - James Badger (2009-2017), University of Calgary.
 Project Title: GeoCENS Data Management System
