@@ -64,7 +64,7 @@ permalink: /people/
   githubid=""
   twitterid=""
   position="Ph.D. Student"
-  duration="2016-Present"
+  duration="2015-Present"
   location="University of Calgary"
   biotext="Recent innovations in an internet of things(IoT) technology have allowed researchers to collect large and highly accurate datasets on the environment while vastly decreasing the time and cost of gathering such data. However, researchers need more stable, scalable, lower cost sensor monitoring network and more powerful monitor data processing and analysis system. By nature IoT applications are dynamic and, thus, complex and being difficult to build. Devices can be lost at any time. So does the network connection. Therefore, a new IoT architecture should be intended to meet these requirements. Based on existed technology, is possible to design an IoT architecture, which suits the environmental monitoring, using open source hardware and software. The IoT architecture contains several components. 1) Devices: It records the ecological parameters with different kinds of field sensors and actuators; 2) Gateway: It connects sensors to the world and manage the hardware and software running at the edge.3) Cloud: It is a place where process and analyze the field data; 4) User-front-end: Researchers can see the general monitoring information and data analysis result. This information will appear in a variety of charts and integrates with map."  
 %}
