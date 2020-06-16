@@ -82,15 +82,15 @@ permalink: /people/
 %}
 
 {% include people-profile.html
-  imagename="user-profile-avatar.png"
+  imagename="Jahromi-Mahnoush.jpg"
   displayname="Mahnoush M. Jahromi"
-  linkedinid=""
+  linkedinid="mahnoushjahromi"
   githubid=""
   twitterid=""
   position="Ph.D. Student"
-  duration="????-Present"
+  duration="2019-Present"
   location="University of Calgary"
-  biotext=""
+  biotext="I am a Geomatics Ph.D. student at the University of Calgary with a background in Electrical Engineering and Bio-Electric Engineering. I am experienced in embedded systems programming, implementation and testing (IoT application), digital signal/image processing; machine learning algorithms; and familiar with iOS application development. My interest in getting benefit of Internet of Things (IoT) in improving and easing system management has motivated me toward expanding my knowledge in software development, and system architect design."
 %}
 
 {% include people-profile.html
