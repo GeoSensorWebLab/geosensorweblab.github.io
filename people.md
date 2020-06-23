@@ -73,18 +73,13 @@ permalink: /people/
   imagename="Soroush-Ojagh.jpg"
   displayname="Soroush Ojagh"
   linkedinid="soroush-o-68524445"
-  githubid="soroushojagh"
-  email="soroush.ojagh@ucalgary.ca"
+  githubid=""
   twitterid=""
   position="Ph.D. Student"
   duration="2018-Present"
   location="University of Calgary"
-  biotext="He received his M.S. degree in Geospatial Information System (GIS) engineering in 2013 from the Geodesy and Geomatics Engineering faculty of K.N. Toosi University of Technology, and is currently pursuing his PhD in the same major. His research interests focus on Context-Awareness, Internet of Things, Mobile Computing, Graph Analysis, and Recommender Systems. He is the winner of “Eyes High International Doctoral Recruitment Scholarship” and "Chancellor's Challenge Graduate Scholarship" awards from the University of Calgary in 2019 and 2020 respectively, and currently working at the GeoSensorWeb Laboratory, University of Calgary."  
+  biotext="My interest research topic is primarily in the field of Context-Awareness and Recommender Systems. Context-Aware Systems are intelligent systems that recommend users with adaptive service choices which are appropriate to their profile preferences and contextual situations. Recently by the popularity of IoT smart devices as well as the availability of the wireless network, a massive volume of data is available to gain useful insights into user profile which contains dynamic contextual information. IoT sensors continuously generate enormous amounts of data. However, in order to add value to raw sensor data, we need to understand them and use them in a context-aware computing platform. On the other hand, Recommender Systems can be considered as an effective solution for fighting information overload. So, the integration of Context-Awareness, Recommender Systems, and other technologies including IoT, Social Networks, and Ubiquitous Computing opens new windows of opportunities to propose more efficient services."  
 %}
-
-### Publications
-
-- [Publications (Google Scholar)](https://scholar.google.com/citations?user=4jBbNfYAAAAJ&hl=en)
 
 {% include people-profile.html
   imagename="Jahromi-Mahnoush.jpg"
@@ -99,15 +94,17 @@ permalink: /people/
 %}
 
 {% include people-profile.html
-  imagename="user-profile-avatar.png"
+  imagename="Sepehr.jpg"
   displayname="Sepehr Honarparvar"
-  linkedinid=""
+  linkedinid="sepehr-honarparvar-0b950b192"
+  googescholar="https://scholar.google.com/citations?hl=en&user=ygsm9tEAAAAJ"
   githubid=""
   twitterid=""
   position="Visiting Ph.D. Student"
-  duration="????-Present"
+  duration="2019-Present"
   location="University of Calgary"
-  biotext=""
+  biotext="I am a GIScientist with an engineering background and experience in GIS development. I am experienced in Geospatial software development to facilitate mobile mapping, 2D/3D data visualization, network analysis, and spatial data management. To keep the connection with industry, I have led the software development team of the Geomatics Department of K.N.Toosi in several industrial MobileGIS projects. My research in Master was focused on how to improve the quality of Location Aware Recommender Systems using high quality Volunteered Geographic Information (VGI) as well as automation of VGI quality assessment. My background in VGI and the Internet of Things(IoT) led me to study on Location-Based Social Network (LBSN) and IoT integration network models. Having added to GSWL, I broadened my technical knowledge to employ IoT and Artificial Intelligence (AI) to develop real-time GIServices. 
+I am always passionate to develop IoT/GIServices and leverage cutting edge technologies such as AI to solve real-world spatial problems."
 %}
 
 {% include people-profile.html
