@@ -109,10 +109,10 @@ permalink: /people/
   imagename="Sina-Kiaei.jpg"
   displayname="Sina Kiaei"
   linkedinid="sina-kiaei"
-  githubid=""
+  githubid="sinakiaei"
   twitterid=""
   position="Ph.D. Student"
-  duration="????-Present"
+  duration="2020-Present"
   location="University of Calgary"
   biotext="I am a Ph.D. student who has started my Ph.D. in the GeoSensor Web lab, at the University of Calgary, since January 2020. My background is in Geomatics Engineering. I have experience in Geodesy, navigation, positioning, signal, and image processing. Broadly, my research interests include the Internet of Things (IoT) and Artificial Intelligent (AI). We live in an era where AI is becoming a global platform for the computation and interaction between smart objects in real-time applications and many critical aspects in our daily life. With the application areas such as smart health, smart cities, and smart homes in IoT, AI can be considered as a complementary package of smart networked objects. AI brings a promise of genuine interaction."
 %}
