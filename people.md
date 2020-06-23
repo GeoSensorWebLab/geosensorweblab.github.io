@@ -97,7 +97,7 @@ permalink: /people/
   imagename="Sepehr.jpg"
   displayname="Sepehr Honarparvar"
   linkedinid="sepehr-honarparvar-0b950b192"
-  googescholar="https://scholar.google.com/citations?hl=en&user=ygsm9tEAAAAJ"
+  google scholar="https://scholar.google.com/citations?hl=en&user=ygsm9tEAAAAJ"
   githubid=""
   twitterid=""
   position="Visiting Ph.D. Student"
