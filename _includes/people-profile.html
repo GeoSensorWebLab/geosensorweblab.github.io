@@ -1,0 +1,38 @@
+<div class="profile">
+  <div class="avatar">
+  </div>
+  <div class="bio">
+    <div class="hline"></div>
+  </div>
+  <div class="avatar">
+    <div>
+      {% include image-avatar.html imagename=include.imagename displayname=include.displayname %}  
+    </div>
+    <div class="displayname">
+      {{ include.displayname }}
+    </div>
+    <div>
+      {{ include.position }}
+    </div>
+    <div>
+      {{ include.duration }}
+    </div>
+    <div>
+      {{ include.location }}
+    </div>
+    <div class="flex bio-social">
+      {% if include.linkedinid and include.linkedinid != "" %}
+        {% include icon-linkedin.html username=include.linkedinid %}
+      {% endif %}
+      {% if include.githubid and include.githubid != "" %}
+        {% include icon-github.html username=include.githubid %}
+      {% endif %}
+      {% if include.twitterid and include.twitterid != "" %}
+        {% include icon-twitter.html username=include.twitterid %}
+      {% endif %}
+    </div>
+  </div>
+  <div class="bio">
+    {{ include.biotext }}
+  </div>
+</div>
