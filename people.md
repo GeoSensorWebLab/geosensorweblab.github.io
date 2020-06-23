@@ -74,6 +74,7 @@ permalink: /people/
   displayname="Soroush Ojagh"
   linkedinid="soroush-o-68524445"
   githubid="soroushojagh"
+  email="soroush.ojagh@ucalgary.ca"
   twitterid=""
   position="Ph.D. Student"
   duration="2018-Present"
