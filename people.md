@@ -40,7 +40,7 @@ permalink: /people/
   biotext="I have been a Postdoctoral fellow in the GeoSensorWeb Lab at the University of Calgary since 2015. I have been a Member of the <a href='https://www.ogc.org/projects/groups/oab'>OGC (Open Geospatial Consortium) Architecture Board</a> since 2020. I received my Ph.D. in 2013, from the <a href='https://mms.geomatics.ucalgary.ca/'>Multi Mobile Sensor System Research Team</a>, University of Calgary, in positioning, navigation and wireless location on smartphones. I have my B.Sc. and M.Sc. in Geomatics and Civil Engineering from the University of Tehran, Iran. My interests are primarily in the field of 'sensor fusion' and 'intelligent geospatial computation' in context-aware location-based services. Sensor technologies are used almost everywhere. Connecting multi-sensor over a network increases the quality, coverage, confidence and usability of their data in real-time applications. Multi-sensor data, along with the IoT’s access to cloud-based processing resources, will lead to a tremendous expansion in the online accessibility of geospatial services anytime and everywhere."  
 %}
 
-### Publications
+### Sara's Publications
 
 - [Context-Aware Personal Navigation Services Using Multi-level Sensor Fusion Algorithms](http://theses.ucalgary.ca/bitstream/11023/1098/2/ucalgary_2013_saeedi_sara.pdf), Sara Saeedi, (PhD thesis), September 2013, UCGE 20390
 - [Publications (Google Scholar)](https://scholar.google.ca/citations?user=uVdDM94AAAAJ&hl=en)
@@ -97,15 +97,17 @@ permalink: /people/
   imagename="Sepehr.jpg"
   displayname="Sepehr Honarparvar"
   linkedinid="sepehr-honarparvar-0b950b192"
-  google scholar="https://scholar.google.com/citations?hl=en&user=ygsm9tEAAAAJ"
   githubid=""
   twitterid=""
   position="Visiting Ph.D. Student"
   duration="2019-Present"
   location="University of Calgary"
-  biotext="I am a GIScientist with an engineering background and experience in GIS development. I am experienced in Geospatial software development to facilitate mobile mapping, 2D/3D data visualization, network analysis, and spatial data management. To keep the connection with industry, I have led the software development team of the Geomatics Department of K.N.Toosi in several industrial MobileGIS projects. My research in Master was focused on how to improve the quality of Location Aware Recommender Systems using high quality Volunteered Geographic Information (VGI) as well as automation of VGI quality assessment. My background in VGI and the Internet of Things(IoT) led me to study on Location-Based Social Network (LBSN) and IoT integration network models. Having added to GSWL, I broadened my technical knowledge to employ IoT and Artificial Intelligence (AI) to develop real-time GIServices. 
-I am always passionate to develop IoT/GIServices and leverage cutting edge technologies such as AI to solve real-world spatial problems."
+  biotext="<p>I am a GIScientist with an engineering background and experience in GIS development. I am experienced in Geospatial software development to facilitate mobile mapping, 2D/3D data visualization, network analysis, and spatial data management. To keep the connection with industry, I have led the software development team of the Geomatics Department of K.N.Toosi in several industrial MobileGIS projects. My research in Master was focused on how to improve the quality of Location Aware Recommender Systems using high quality Volunteered Geographic Information (VGI) as well as automation of VGI quality assessment. My background in VGI and the Internet of Things(IoT) led me to study on Location-Based Social Network (LBSN) and IoT integration network models. Having added to GSWL, I broadened my technical knowledge to employ IoT and Artificial Intelligence (AI) to develop real-time GIServices.</p><p>I am always passionate to develop IoT/GIServices and leverage cutting edge technologies such as AI to solve real-world spatial problems.</p>"
 %}
+
+### Sepehr's Publications
+
+- [Publications (Google Scholar)](https://scholar.google.com/citations?hl=en&user=ygsm9tEAAAAJ)
 
 {% include people-profile.html
   imagename="Sina-Kiaei.jpg"
@@ -128,7 +130,7 @@ I am always passionate to develop IoT/GIServices and leverage cutting edge techn
   position="Research Associate"
   duration="2020-Present"
   location="University of Calgary"
-  biotext="<p>Software developer, architect, and integrator with project management, consulting, and technical management experience. Manages software development at the GeoSensorWeb Lab. Specializing in web applications, APIs, sensor data processing and geomatics visualization tools in the cloud (SensorUp Explorer on AWS). Does DevOps to AWS using Terraform and utilities in Node and Bash.</p>"
+  biotext="<p>Software developer, architect, and integrator with project management, consulting, and technical management experience. Manages software development at the GeoSensorWeb Lab. Specializing in web applications, APIs, sensor data processing and geomatics visualization tools in the cloud (SensorUp Explorer on AWS). Handles DevOps to AWS using Terraform and utilities in Node and Bash.</p>"
 %}
 
 ## Previous Members and Students
