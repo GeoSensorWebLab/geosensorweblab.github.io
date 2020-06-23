@@ -94,15 +94,17 @@ permalink: /people/
 %}
 
 {% include people-profile.html
-  imagename="user-profile-avatar.png"
+  imagename="Sepehr.jpg"
   displayname="Sepehr Honarparvar"
-  linkedinid=""
+  linkedinid="sepehr-honarparvar-0b950b192"
+  google scholar="https://scholar.google.com/citations?hl=en&user=ygsm9tEAAAAJ"
   githubid=""
   twitterid=""
   position="Visiting Ph.D. Student"
-  duration="????-Present"
+  duration="2019-Present"
   location="University of Calgary"
-  biotext=""
+  biotext="I am a GIScientist with an engineering background and experience in GIS development. I am experienced in Geospatial software development to facilitate mobile mapping, 2D/3D data visualization, network analysis, and spatial data management. To keep the connection with industry, I have led the software development team of the Geomatics Department of K.N.Toosi in several industrial MobileGIS projects. My research in Master was focused on how to improve the quality of Location Aware Recommender Systems using high quality Volunteered Geographic Information (VGI) as well as automation of VGI quality assessment. My background in VGI and the Internet of Things(IoT) led me to study on Location-Based Social Network (LBSN) and IoT integration network models. Having added to GSWL, I broadened my technical knowledge to employ IoT and Artificial Intelligence (AI) to develop real-time GIServices. 
+I am always passionate to develop IoT/GIServices and leverage cutting edge technologies such as AI to solve real-world spatial problems."
 %}
 
 {% include people-profile.html
