@@ -73,13 +73,17 @@ permalink: /people/
   imagename="Soroush-Ojagh.jpg"
   displayname="Soroush Ojagh"
   linkedinid="soroush-o-68524445"
-  githubid=""
+  githubid="soroushojagh"
   twitterid=""
   position="Ph.D. Student"
   duration="2018-Present"
   location="University of Calgary"
-  biotext="My interest research topic is primarily in the field of Context-Awareness and Recommender Systems. Context-Aware Systems are intelligent systems that recommend users with adaptive service choices which are appropriate to their profile preferences and contextual situations. Recently by the popularity of IoT smart devices as well as the availability of the wireless network, a massive volume of data is available to gain useful insights into user profile which contains dynamic contextual information. IoT sensors continuously generate enormous amounts of data. However, in order to add value to raw sensor data, we need to understand them and use them in a context-aware computing platform. On the other hand, Recommender Systems can be considered as an effective solution for fighting information overload. So, the integration of Context-Awareness, Recommender Systems, and other technologies including IoT, Social Networks, and Ubiquitous Computing opens new windows of opportunities to propose more efficient services."  
+  biotext="He received his M.S. degree in Geospatial Information System (GIS) engineering in 2013 from the Geodesy and Geomatics Engineering faculty of K.N. Toosi University of Technology, and is currently pursuing his PhD in the same major. His research interests focus on Context-Awareness, Internet of Things, Mobile Computing, Graph Analysis, and Recommender Systems. He is the winner of “Eyes High International Doctoral Recruitment Scholarship” and "Chancellor's Challenge Graduate Scholarship" awards from the University of Calgary in 2019 and 2020 respectively, and currently working at the GeoSensorWeb Laboratory, University of Calgary."  
 %}
+
+### Publications
+
+- [Publications (Google Scholar)](https://scholar.google.com/citations?user=4jBbNfYAAAAJ&hl=en)
 
 {% include people-profile.html
   imagename="Jahromi-Mahnoush.jpg"
