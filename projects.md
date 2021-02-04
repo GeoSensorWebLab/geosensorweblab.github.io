@@ -4,6 +4,35 @@ title: Projects
 permalink: /projects/
 ---
 
+## An Interoperable Architecture for the Internet of [#COVID19] Things (IoCT) Using Open Geospatial Standards—Case Study: Workplace Reopening (2019)
+
+<div class="flex">
+<div>
+    <p>
+To safely protect workplaces and the workforce during and after the COVID-19 pandemic, a scalable integrated sensing solution is required in order to offer real-time situational awareness and early warnings for decision-makers. However, an information-based solution for industry reopening is ineffective when the necessary operational information is locked up in disparate real-time data silos. There is a lot of ongoing effort to combat the COVID-19 pandemic using different combinations of low-cost, location-based contact tracing, and sensing technologies. These ad hoc Internet of Things (IoT) solutions for COVID-19 were developed using different data models and protocols without an interoperable way to interconnect these heterogeneous systems and exchange data on people and place interactions. This research aims to design and develop an interoperable Internet of COVID-19 Things (IoCT) architecture that is able to exchange, aggregate, and reuse disparate IoT sensor data sources in order for informed decisions to be made after understanding the real-time risks in workplaces based on person-to-place interactions. The IoCT architecture is based on the Sensor Web paradigm that connects various Things, Sensors, and Datastreams with an indoor geospatial data model. This paper presents a study of what, to the best of our knowledge, is the first real-world integrated implementation of the Open Geospatial Consortium (OGC) Sensor Web Enablement (SWE) and IndoorGML standards to calculate the risk of COVID-19 online using a workplace reopening case study. The proposed IoCT offers a new open standard-based information model, architecture, methodologies, and software tools that enable the interoperability of disparate COVID-19 monitoring systems with finer spatial-temporal granularity. A workplace cleaning use case was developed in order to demonstrate the capabilities of this proposed IoCT architecture. The IoCT architecture included proximity-based contact tracing, people density sensors, a COVID-19 risky behavior monitoring system, and the contextual building geospatial data. **[View Full-Text](https://www.mdpi.com/1424-8220/21/1/50/htm)**
+
+</p>
+
+
+<img src="/assets/images/COVID_Paper1.jpg" srcset="/assets/images/COVID_Paper1.jpg 2x">
+
+
+<p>
+**Publications:**
+
+We are pleased to announce that our recent [#GeoSensorWeb]lab’s publication on the Internet of COVID-19 Things ([https://lnkd.in/gvgbqMK](https://lnkd.in/gvgbqMK)) has been selected and promoted as the cover story for the [mdpi Sensorsjournal](https://www.linkedin.com/feed/hashtag/?keywords=journal&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6752645413867790336).
+
+Cite: Liang, Steve H.L.; Saeedi, Sara; Ojagh, Soroush; Honarparvar, Sepehr; Kiaei, Sina; Mohammadi Jahromi, Mahnoush; Squires, Jeremy. 2021. "An Interoperable Architecture for the Internet of COVID-19 Things (IoCT) Using Open Geospatial Standards—Case Study: Workplace Reopening" _Sensors_ 21, no. 1: 50.
+
+</p>
+
+
+<img src="/assets/images/COVID_Paper2.jpg" srcset="/assets/images/COVID_Paper2.jpg 2x">
+
+
+</div>
+</div>
+
 ## OGC CDB: Advancing Interoperability for Dynamic Environmental Representations (2016 – Present)
 
 <div class="flex">
