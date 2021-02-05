@@ -18,6 +18,7 @@ To safely protect workplaces and the workforce during and after the COVID-19 pan
 
 
 <p>
+
 **Publications:**
 
 We are pleased to announce that our recent GeoSensorWeblab’s publication on the Internet of COVID-19 Things has been selected and promoted as the cover story for the mdpi Sensors journal.
