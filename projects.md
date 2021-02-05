@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## An Interoperable Architecture for the Internet of [#COVID19] Things (IoCT) Using Open Geospatial Standards—Case Study: Workplace Reopening (2019)
+## An Interoperable Architecture for the Internet of COVID19 Things (IoCT) Using Open Geospatial Standards—Case Study: Workplace Reopening (2019)
 
 <div class="flex">
 <div>
@@ -14,7 +14,7 @@ To safely protect workplaces and the workforce during and after the COVID-19 pan
 </p>
 
 
-<img src="/assets/images/COVID_Paper1.jpg" srcset="/assets/images/COVID_Paper1.jpg 2x">
+<img src="/assets/images/COVID_Paper1.jpg">
 
 
 <p>
@@ -27,7 +27,7 @@ Cite: Liang, Steve H.L.; Saeedi, Sara; Ojagh, Soroush; Honarparvar, Sepehr; Kiae
 </p>
 
 
-<img src="/assets/images/COVID_Paper2.jpg" srcset="/assets/images/COVID_Paper2.jpg 2x">
+<img src="/assets/images/COVID_Paper2.jpg">
 
 
 </div>
@@ -43,7 +43,7 @@ Cite: Liang, Steve H.L.; Saeedi, Sara; Ojagh, Soroush; Honarparvar, Sepehr; Kiae
 </div>
 </div>
 
-## <a href="http://www.bera-project.org">Boreal Ecosystem Recovery and Assessment (BERA) Project</a> (2015 – Present)
+## <a href="http://www.bera-project.org">Boreal Ecosystem Recovery and Assessment (BERA) Project</a> (2015 – 2020)
 
 <div class="flex">
 <div>
