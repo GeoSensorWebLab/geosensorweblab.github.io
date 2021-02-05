@@ -20,14 +20,16 @@ To safely protect workplaces and the workforce during and after the COVID-19 pan
 <p>
 **Publications:**
 
-We are pleased to announce that our recent [#GeoSensorWeb]lab’s publication on the Internet of COVID-19 Things ([https://lnkd.in/gvgbqMK](https://lnkd.in/gvgbqMK)) has been selected and promoted as the cover story for the [mdpi Sensorsjournal](https://www.linkedin.com/feed/hashtag/?keywords=journal&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6752645413867790336).
+We are pleased to announce that our recent GeoSensorWeblab’s publication on the Internet of COVID-19 Things has been selected and promoted as the cover story for the mdpi Sensors journal.
 
-Cite: Liang, Steve H.L.; Saeedi, Sara; Ojagh, Soroush; Honarparvar, Sepehr; Kiaei, Sina; Mohammadi Jahromi, Mahnoush; Squires, Jeremy. 2021. "An Interoperable Architecture for the Internet of COVID-19 Things (IoCT) Using Open Geospatial Standards—Case Study: Workplace Reopening" _Sensors_ 21, no. 1: 50.
 
 </p>
 
 
-<img src="/assets/images/COVID_Paper2.jpg" srcset="/assets/images/COVID_Paper2.jpg 0.1x">
+<img src="/assets/images/cover-sensors.webp">
+<p>
+    https://www.mdpi.com/1424-8220/21/1
+</p>
 
 
 </div>
