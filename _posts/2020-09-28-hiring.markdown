@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Ph.D. Position with Opportunity"
+date:   2020-09-28 17:30:00 -0600
+category: geosensorweblab
+---
+
+## Ph.D. Position with Opportunity (Focusing on Geospatial IoT)
+
+The Geo Sensor Web lab at the University of Calgary is looking for talented PhD students who want to innovate with geospatial IoT, 5G, and AI . The successful candidate would be enrolled in the Geomatics Engineering program, Schulich School of Engineering at the University of Calgary and will receive a full scholarship for four years.
+
+**Start date: 2022**
+
+### Position Summary
+
+Our Research Team is looking for highly motivated graduate students who would like to pursue their studies as a PhD student. 
+
+Our research group focuses on the development and applications of geospatial IoT and AI. Our research typically centers around the innovative geospatial IoT technology, geospatial information system and science, machine learning, artificial intelligence, 5G network, sensor integration and analytics, digital twin, 3D virtual reality, modelling and simulation. 
+
+Our research group is supported by the Rogers Internet of Things Research Chair, and has a strong relationship with innovative companies, standard development organizations, and startups. For example, we worked with Rogers Communications, CAE Inc., Microsoft Research, SensorUp Inc., and more. 
+
+Our students are supervised by Prof. Dr. Steve Liang and Dr. Sara Saeedi. We also have a technical manager to help students grow their knowledge, creativity and technical skills in a collaborative environment. 
+
+For more information please visit [our website](https://geosensorweblab.github.io).
+
+### Eligibility
+
+Our group values candidates who are passionate about their work and have diverse backgrounds with a drive for innovation, collaboration, and ingenuity. 
+
+An ideal candidate would have a Masters degree in Computer Science, Computing, Electrical or Computer Engineering, and Geomatics Engineering, and have:
+
+* Strong interest in the Internet of Things, Cloud Computing, AI, 5G and their applications,
+* Practical programming experience in C/C++, Java, and/or Python to build modern cloud-native software,
+* Experience with software competency, algorithmic thinking and data structures/databases concepts and tools,
+* Practical experience in software development collaboration tools, such as GitHub,
+* Knowledge of AI and Cloud (AWS or Azure) and platforms for IoT is a distinct advantage,
+* Fluent spoken and written English and academic communication skills (writing/presenting) for interaction with project partners are essential,
+* Proven ability to work well both in a team environment and on his/her own initiative to solve technical problems,
+* Excellent self-management, organized, hardworking, accountable, honest, practical, assertive and achievement oriented personality. 
+
+### Application Instructions
+
+Qualified individuals are encouraged to submit their application to Dr. Sara Saeedi <ssaeedi@ucalgary.ca>
+
+Please attach a single PDF file for your application that contains a cover letter, curriculum vitae, and transcripts. The subject line should read “[GSWL PhD Position 2022]”. 
+
+Please submit your application by **Oct 30, 2021**. Evaluation of the applications will begin in **Nov 2021**, and the successful candidates will be contacted by **Nov 30, 2021**.
+
+We thank all applicants for their interest, however, only candidates selected for an interview will be contacted. 
