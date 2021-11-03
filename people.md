@@ -70,18 +70,6 @@ permalink: /people/
 %}
 
 {% include people-profile.html
-  imagename="Soroush-Ojagh.jpg"
-  displayname="Soroush Ojagh"
-  linkedinid="soroush-o-68524445"
-  githubid=""
-  twitterid=""
-  position="Ph.D. Student"
-  duration="2018-Present"
-  location="University of Calgary"
-  biotext="My interest research topic is primarily in the field of Context-Awareness and Recommender Systems. Context-Aware Systems are intelligent systems that recommend users with adaptive service choices which are appropriate to their profile preferences and contextual situations. Recently by the popularity of IoT smart devices as well as the availability of the wireless network, a massive volume of data is available to gain useful insights into user profile which contains dynamic contextual information. IoT sensors continuously generate enormous amounts of data. However, in order to add value to raw sensor data, we need to understand them and use them in a context-aware computing platform. On the other hand, Recommender Systems can be considered as an effective solution for fighting information overload. So, the integration of Context-Awareness, Recommender Systems, and other technologies including IoT, Social Networks, and Ubiquitous Computing opens new windows of opportunities to propose more efficient services."  
-%}
-
-{% include people-profile.html
   imagename="Jahromi-Mahnoush.jpg"
   displayname="Mahnoush M. Jahromi"
   linkedinid="mahnoushjahromi"
@@ -137,10 +125,10 @@ permalink: /people/
 
 ### Post Doctoral Fellows
 
-- [Dr. Haiyu Lan](https://scholar.google.ca/citations?user=ykLug-oAAAAJ&hl=en) (In Progress) , University of Calgary.
+- [Dr. Haiyu Lan](https://scholar.google.ca/citations?user=ykLug-oAAAAJ&hl=en) (In Progress), University of Calgary.
 Project Title: UAV and IoT.
 
-- [Dr. Sara Saeedi](https://scholar.google.ca/citations?user=uVdDM94AAAAJ&hl=en) (2015-2018) , University of Calgary.
+- [Dr. Sara Saeedi](https://scholar.google.ca/citations?user=uVdDM94AAAAJ&hl=en) (2015-2018), University of Calgary.
 Project Title: Interoperable OGC CDB standards.
 Present Position: Assistant Director, GSW Lab.
 
@@ -152,34 +140,37 @@ Present Position: Director, UAE GIS Centre.
 Project Title: Watermarking techniques for the Internet of Things.
 Present Position: Senior Research Fellow at Harvard University.
 
-### PhD Students
+### PhD Graduates
 
-- [Dr. Tania Khalafbeigi](https://www.linkedin.com/in/tania-khalafbeigi-0a49116a/?originalSubdomain=ca) (graduated in 2019) , University of Calgary.
+- [Dr. Tania Khalafbeigi](https://www.linkedin.com/in/tania-khalafbeigi-0a49116a/?originalSubdomain=ca) (graduated in 2019), University of Calgary.
 Thesis Title: Internet of Things Data Streaming Architecture.
 Present Position: Software Developer, SensorUp Inc.
 
-- [Dr. Chih-Yuan Huang](https://scholar.google.de/citations?user=1fHqpF0AAAAJ&hl=en) (graduated in 2014) , University of Calgary.
+- [Dr. Chih-Yuan Huang](https://scholar.google.de/citations?user=1fHqpF0AAAAJ&hl=en) (graduated in 2014), University of Calgary.
 Thesis Title: GeoPubSubHub: A Geospatial Publish/Subscribe Architecture for the World-Wide Sensor Web.
 Present Position: Assistant Professor, NCU.
 
-### Master Students
+### Master Graduates
 
-- Xiaohong Shang (graduated in 2016) , University of Calgary.
+- Soroush Ojagh, University of Calgary.
+Thesis Title: Spatiotemporal IoT Data Analysis and Prediction using OGC Open Standards in Digital Contact Tracing and Air Quality Prediction Applications.
+
+- Xiaohong Shang (graduated in 2016), University of Calgary.
 Thesis Title: A Study on Efficient Vector Mapping with Vector Tiles Based on Cloud Server Architecture.
 
-- Tsai Hang-Fang (graduated in 2015) , University of Calgary.
+- Tsai Hang-Fang (graduated in 2015), University of Calgary.
 Thesis Title: An Efficient Web Mapping Solution for Polar Regions.
 
-- Mohammad Ali Jazayeri (graduated in 2014) , University of Calgary.
+- Mohammad Ali Jazayeri (graduated in 2014)  University of Calgary.
 Thesis Title: Implementation and Evaluation of Interoperable OpenStandards for the Internet of Things.
 
 - Ren-Yu Li, University of Calgary.
 Thesis Title: A Study of Volunteered Geographic Information and Social Media.
 
-- Andrew Phillips (co-supervised, graduated in 2014) , University of Calgary.
+- Andrew Phillips (co-supervised, graduated in 2014), University of Calgary.
 Thesis Title: Integrated Sensing of Soil Moisture at the Field-Scale: Measuring, Modeling and Sharing For Improved Agricultural Decision Support.
 
-- Mohammad Alohali (graduated in 2015) , University of Calgary.
+- Mohammad Alohali (graduated in 2015), University of Calgary.
 Project Title: Internet of Things (non-thesis-based master degree).
 
 ### Research Associates
