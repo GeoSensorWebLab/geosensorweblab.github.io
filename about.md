@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-The GeoSensorWeb Lab is a research group at the University of Calgary, Canada that is focused on developing web-enabled geospatial information systems and building interoperability into the Internet of Things.
+Our mission is to build a world-wide sensor web, make its information accessible and useful for a positive impact at a global scale.
 
-We have worked with other research groups, government agencies, companies, and consortiums to bring data from private silos to the public web. By combining open standards such as HTTP/REST with previously locked-in data, we can make data accessible through live visualizations available on any platform.
-
-Our research sponsors include Microsoft Research, CAE, CANARIE, NSERC, Alberta Innovate, City of Calgary, etc. We appreciate their generous financial support.
+Our research sponsors include Rogers, CAE, Microsoft Research, ESRI Canada, CANARIE, Cybera, NSERC, Alberta Innovate, City of Calgary, and more. We appreciate their generous financial support for innovations.
 
 ## Sponsors
 
