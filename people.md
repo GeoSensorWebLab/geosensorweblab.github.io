@@ -12,11 +12,11 @@ permalink: /people/
   linkedinid="steve-liang-198b44"
   githubid=""
   twitterid=""
-  position="Associate Professor"
-  duration="2013-Present"
+  position="Professor"
+  duration="2007-Present"
   location="University of Calgary"
-  biotext="<p>Steve Liang is a researcher, teacher and entrepreneur. Steve is currently an associate professor at the University of Calgary and director of the GeoSensorWeb Laboratory. Steve’s goal is to disrupt the silos of the Internet of Things and to empower anyone to build connected applications by using the information generated from the world around them. For example, Steve is the editor of the Open Geospatial Consortium SensorThings API and the result of the standard work is to provide a uniform way to expose the full potential of the Internet of Things.</p>
-  <p>Steve has been an invited speaker at universities and industries in 11 countries. In 2013, Steve was chosen one of Calgary’s Top 40 Under 40 by the Avenue Magazine. Steve held the AITF-Microsoft Industry Research Chair on the Open Sensor Web from 2011 to 2014.</p>"
+  biotext="<p>Dr. Steve Liang (梁鴻翎) is a researcher, teacher and entrepreneur. Dr. Liang is currently a professor at the University of Calgary and director of the GeoSensorWeb Laboratory. Steve’s goal is to build a world-wide sensor web, make its information accessible and useful and to empower anyone to build connected applications by using the information generated from the world around them for positive impact at a global scale. For example, Steve is the editor of the Open Geospatial Consortium SensorThings API and the result of the standard work is to provide a uniform way to expose the full potential of the Internet of Things.</p>
+  <p>Steve has been an invited speaker at universities and industries around the world. In 2013, Steve was chosen one of Calgary’s Top 40 Under 40 by the Avenue Magazine. Steve held the AITF-Microsoft Industry Research Chair on the Open Sensor Web from 2011 to 2014.</p>"
 %}
 
 ### Positions and Publications
