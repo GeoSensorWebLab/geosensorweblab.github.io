@@ -21,7 +21,7 @@ permalink: /people/
 
 ### Positions and Publications
 
-- Associate Professor at the [Geomatics Engineering Department](https://schulich.ucalgary.ca/departments/geomatics-engineering), [Schulich School of Engineering](https://schulich.ucalgary.ca/), [University of Calgary](http://ucalgary.ca)
+- Professor at the [Geomatics Engineering Department](https://schulich.ucalgary.ca/departments/geomatics-engineering), [Schulich School of Engineering](https://schulich.ucalgary.ca/), [University of Calgary](http://ucalgary.ca)
 - Founder and CTO, [SensorUp Inc.](http://www.sensorup.com)
 - Rogers IoT Research Chair, Research Chair
 - Chair of WG2, [ITU-T FG on Data Processing and Management for IoT and Smart Communities](https://www.itu.int/en/ITU-T/focusgroups/dpm/Pages/default.aspx)
